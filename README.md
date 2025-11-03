@@ -1,0 +1,1 @@
+cara kerjanya yaitu kita menginput angka berapapun yang penting adalah bialangn bulat positif dan hasil faktorialnya akan muncul misal kita input angka 5 maka hasil faktorialnya adalah 120 dikarnakan kita mengalikan dari angka 1 sampai angka yang kita input tadi
